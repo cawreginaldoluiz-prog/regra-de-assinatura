@@ -1,0 +1,1 @@
+# regra-assinatura-exchange

@@ -1,1 +1,1 @@
-# regra-assinatura-exchange
+# regra-de-assinatura
